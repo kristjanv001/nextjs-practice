@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Album List | Home</title>
+        <title>User List | Home</title>
         <meta name="keywords" content="ninjas" />
       </Head>
       <div >
